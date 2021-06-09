@@ -36,7 +36,11 @@ header {
 }
 
 .bottoni {
-    margin-top: 2%;
+    padding: 20px 30px;
+}
+
+.bottoni span {
+    margin-left: 10px;
 }
 
 .botton-task {
