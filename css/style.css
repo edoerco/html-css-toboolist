@@ -32,9 +32,27 @@ header {
     background-color: white;
     height: 900px;
     width: 80%;
-    border-top-left-radius: 5px;
-    border-top-right-radius: 5px;
-
+    border-radius: 10px;
 }
+
+.bottoni {
+    margin-top: 2%;
+}
+
+.botton-task {
+    background-color: blue;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 10px;
+}
+
+.botton-section {
+    background-color: white;
+    color: #d1d5da;
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: 1px solid #d1d5da;
+}
+
 
 
