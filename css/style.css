@@ -21,6 +21,7 @@ header {
 }
 
 #scritta {
+    vertical-align: middle;
     font-size: 200%;
     font-weight: 700;
     font-family: Arial, Helvetica, sans-serif;
@@ -35,28 +36,23 @@ header {
     border-radius: 10px;
 }
 
-.bottoni {
-    padding: 20px 30px;
+.bottoni span {
+    padding: 10px 15px;
+    border-radius: 10px;
 }
 
-.bottoni span {
-    margin-left: 10px;
+.bottoni {
+    padding: 20px 50px;
 }
 
 .botton-task {
-    background-color: blue;
+    background-color: #47acf1;
     color: white;
-    padding: 10px 15px;
-    border-radius: 10px;
 }
 
 .botton-section {
     background-color: white;
     color: #d1d5da;
-    padding: 10px 15px;
-    border-radius: 10px;
     border: 1px solid #d1d5da;
 }
-
-
 
