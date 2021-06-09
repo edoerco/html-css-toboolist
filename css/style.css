@@ -2,10 +2,12 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 body {
     background-color: whitesmoke;
+    color: #444851;
 }
 
 header {
@@ -24,20 +26,19 @@ header {
     vertical-align: middle;
     font-size: 200%;
     font-weight: 700;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 
 .container {
     margin: 60px auto;
     background-color: white;
-    height: 900px;
     width: 80%;
     border-radius: 10px;
+    height: 550px;
 }
 
 .bottoni span {
-    padding: 10px 15px;
+    padding: 10px 20px;
     border-radius: 10px;
 }
 
@@ -48,11 +49,75 @@ header {
 .botton-task {
     background-color: #47acf1;
     color: white;
+    font-size: 12px;
 }
 
 .botton-section {
     background-color: white;
     color: #d1d5da;
     border: 1px solid #d1d5da;
+    font-size: 12px;
 }
 
+.lista {
+    margin-left: 50px;
+}
+
+.opzioni {
+    margin-top: 30px;
+}
+
+.opzioni div {
+    margin-top: 10px;
+}
+
+.check {
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    text-align: center;
+    vertical-align: center;
+    border-radius: 50%;
+    border: solid 2px;
+    color: red;
+    margin-right: 10px;
+}
+
+.testo {
+    font-size: 18px;
+}
+
+#si {
+    color: green;
+}
+
+.mood {
+    padding: 5px 10px;
+    font-size: 10px;
+    border-radius: 10px;
+    color: white;
+}
+
+.blu {
+    background-color: #45aaea;
+}
+
+.viola {
+    background-color: #9c72e4;
+}
+
+.verde {
+    background-color: #64c0a9;
+}
+
+.arancione {
+    background-color: #f29e33;
+}
+
+.rosa {
+    background-color: #d763a1;
+}
+
+.verdino {
+    background-color: #b0c925;
+}
