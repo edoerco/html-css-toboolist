@@ -1,3 +1,20 @@
-h1 {
-    color: red;
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
 }
+
+#logo {
+    vertical-align: middle;
+    margin-left: 1%;
+    margin-bottom: 1%;
+
+}
+
+#scritta {
+    font-size: 200%;
+    font-weight: 700;
+}
+
+
+
