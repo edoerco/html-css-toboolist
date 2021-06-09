@@ -4,17 +4,37 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: whitesmoke;
+}
+
+header {
+    background-color: white;
+}
+
 #logo {
     vertical-align: middle;
-    margin-left: 1%;
+    margin-left: 15px;
     margin-bottom: 1%;
+    margin-top: 15px;
 
 }
 
 #scritta {
     font-size: 200%;
     font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
+
+.container {
+    margin: 60px auto;
+    background-color: white;
+    height: 900px;
+    width: 80%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+
+}
 
 
